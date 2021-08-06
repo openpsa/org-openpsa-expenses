@@ -1,0 +1,72 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE fi
+
+---STRING date
+Päivämäärä
+---STRINGEND
+
+---STRING description
+Kuvaus
+---STRINGEND
+
+---STRING expenses in week %s
+Kulut viikolla %s
+---STRINGEND
+
+---STRING hour report
+Tuntiraportti
+---STRINGEND
+
+---STRING hours
+Tunteja
+---STRINGEND
+
+---STRING invoiceable
+Laskutettava
+---STRINGEND
+
+---STRING list_hours_task %s
+Listaa tehtävän %s tunnit
+---STRINGEND
+
+---STRING next week
+seuraava viikko
+---STRINGEND
+
+---STRING org.openpsa.expenses
+Kulujen seuranta
+---STRINGEND
+
+---STRING person
+Henkilö
+---STRINGEND
+
+---STRING previous week
+edellinen viikko
+---STRINGEND
+
+---STRING task
+Tehtävä
+---STRINGEND
+
+---STRING uninvoiceable
+Ei-laskutettava
+---STRINGEND
+
+---STRING hours unit
+h
+---STRINGEND
+
+---STRING hours_delete
+Poista tuntiraportti
+---STRINGEND
+
+---STRING hours_edit
+Muokkaa tuntiraporttia
+---STRINGEND
+
+---STRING show task
+Näytä tehtävät kohteelle
+---STRINGEND
+

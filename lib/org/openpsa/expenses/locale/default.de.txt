@@ -1,0 +1,135 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE de
+
+---STRING category
+Kategorie
+---STRINGEND
+
+---STRING date
+Datum
+---STRINGEND
+
+---STRING description
+Beschreibung
+---STRINGEND
+
+---STRING expenses in week %s
+Ausgaben in KW %s
+---STRINGEND
+
+---STRING hour report
+Stundenbericht
+---STRINGEND
+
+---STRING hour reports
+Stundenberichte
+---STRINGEND
+
+---STRING hours
+Arbeitsstunden
+---STRINGEND
+
+---STRING hours unit
+h
+---STRINGEND
+
+---STRING hours_edit
+Stundenbericht bearbeiten
+---STRINGEND
+
+---STRING invoiceable
+Abrechenbar
+---STRINGEND
+
+---STRING invoiced
+Abgerechnet
+---STRINGEND
+
+---STRING list view
+Listenansicht
+---STRINGEND
+
+---STRING list_hours_project %s
+Stundenberichte für Projekt "%s"
+---STRINGEND
+
+---STRING list_hours_task %s
+Stundenberichte für Aufgabe "%s"
+---STRINGEND
+
+---STRING list_hours_invoice %s
+Stundenberichte zu Rechnung %s
+---STRINGEND
+
+---STRING next week
+Folgewoche
+---STRINGEND
+
+---STRING no description given
+Keine Beschreibung angegeben
+---STRINGEND
+
+---STRING org.openpsa.expenses
+Ausgaben-Verwaltung
+---STRINGEND
+
+---STRING previous week
+vorherige Woche
+---STRINGEND
+
+---STRING show invoice
+Rechnung anzeigen
+---STRINGEND
+
+---STRING show project
+Projekt anzeigen
+---STRINGEND
+
+---STRING show task
+Aufgabe anzeigen
+---STRINGEND
+
+---STRING task
+Aufgabe
+---STRINGEND
+
+---STRING timeframe
+Zeitraum
+---STRINGEND
+
+---STRING uninvoiceable
+Nicht abrechenbar
+---STRINGEND
+
+---STRING hours_delete
+Stundenbericht löschen
+---STRINGEND
+
+---STRING person
+Person
+---STRINGEND
+
+---STRING invoice
+Rechnung
+---STRINGEND
+
+---STRING choose user
+Nutzerfilter
+---STRINGEND
+
+---STRING change_task
+Anderer Aufgabe zuordnen
+---STRINGEND
+
+---STRING change_invoice
+Anderer Rechnung zuordnen
+---STRINGEND
+
+---STRING mark_invoiceable
+Als abrechenbar markieren
+---STRINGEND
+
+---STRING mark_uninvoiceable
+Als nicht abrechenbar markieren
+---STRINGEND

@@ -1,0 +1,135 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE en
+
+---STRING category
+Category
+---STRINGEND
+
+---STRING date
+Date
+---STRINGEND
+
+---STRING description
+Description
+---STRINGEND
+
+---STRING expenses in week %s
+Expenses in week %s
+---STRINGEND
+
+---STRING hour report
+Hour report
+---STRINGEND
+
+---STRING hour reports
+Hour reports
+---STRINGEND
+
+---STRING hours
+Hours
+---STRINGEND
+
+---STRING hours unit
+h
+---STRINGEND
+
+---STRING hours_delete
+Delete Hour Report
+---STRINGEND
+
+---STRING hours_edit
+Edit Hour Report
+---STRINGEND
+
+---STRING invoiceable
+Billable
+---STRINGEND
+
+---STRING invoiced
+Invoiced
+---STRINGEND
+
+---STRING list view
+List view
+---STRINGEND
+
+---STRING list_hours_project %s
+Hour reports for Project "%s"
+---STRINGEND
+
+---STRING list_hours_task %s
+Hour reports for Task "%s"
+---STRINGEND
+
+---STRING list_hours_invoice %s
+Hour reports for Invoice %s
+---STRINGEND
+
+---STRING next week
+next week
+---STRINGEND
+
+---STRING no description given
+No description given
+---STRINGEND
+
+---STRING org.openpsa.expenses
+Expense tracking
+---STRINGEND
+
+---STRING person
+Person
+---STRINGEND
+
+---STRING previous week
+previous week
+---STRINGEND
+
+---STRING show invoice
+Show invoice
+---STRINGEND
+
+---STRING show project
+Show project
+---STRINGEND
+
+---STRING show task
+Show task
+---STRINGEND
+
+---STRING task
+Task
+---STRINGEND
+
+---STRING timeframe
+Timeframe
+---STRINGEND
+
+---STRING uninvoiceable
+Not billable
+---STRINGEND
+
+---STRING invoice
+Invoice
+---STRINGEND
+
+---STRING choose user
+Choose user
+---STRINGEND
+
+---STRING change_task
+Change task
+---STRINGEND
+
+---STRING change_invoice
+Change invoice
+---STRINGEND
+
+---STRING mark_invoiceable
+Mark as billable
+---STRINGEND
+
+---STRING mark_uninvoiceable
+Mark as unbillable
+---STRINGEND
